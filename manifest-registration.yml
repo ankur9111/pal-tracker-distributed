@@ -1,5 +1,5 @@
 applications:
-- name: tracker-registration
+- name: ankur_tracker-registration
   path: ./applications/registration-server/build/libs/registration-server.jar
   host: registration-pal-INITIALS
   memory: 1G

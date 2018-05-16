@@ -1,5 +1,5 @@
 applications:
-- name: tracker-timesheets
+- name: ankur_tracker-timesheets
   path: ./applications/timesheets-server/build/libs/timesheets-server.jar
   host: timesheets-pal-INITIALS
   memory: 1G
